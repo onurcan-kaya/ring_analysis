@@ -15,9 +15,9 @@ No other dependencies. Does not require ASE, networkx or any atomistic simulatio
 ## Usage
 
 ```bash
-python ring\_analysis.py structure.xyz
-python ring\_analysis.py structure.data --cutoff 1.85 --max-ring 15 -o output.png
-python ring\_analysis.py structure.xyz --no-plot
+python ring_analysis.py structure.xyz
+python ring_analysis.py structure.data --cutoff 1.90 --max-ring 15 -o output.png
+python ring_analysis.py structure.xyz --no-plot
 ```
 
 ### Arguments
